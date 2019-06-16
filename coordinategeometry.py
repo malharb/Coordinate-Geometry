@@ -48,3 +48,4 @@ def configuration():
     gradient(x1,y1,x2,y2)
 
 configuration()
+input('Press ENTER to exit')
